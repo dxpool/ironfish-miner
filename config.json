@@ -1,0 +1,15 @@
+{
+  "loglevel": -1,
+  "miners": [
+    {
+      "cryptoname": "ironfish",
+      "minername": ["gpu"],
+      "pool": {
+        "host": "ironfish.ss.dxpool.com",
+        "port": 8899,
+        "user": "0000",
+        "pass": "x"
+      }
+    }
+  ]
+}
