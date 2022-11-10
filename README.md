@@ -1,5 +1,6 @@
-DxPool-Ironfish-Miner
+# DxPool-Ironfish-Miner
 
+Current Iron Fish mining software only supports **NVIDIA GPUs** on **Linux** system,  **Windows** ,  **AMD** , and **mineros** miner will come out in the near future.
 
 ## **Preparation Before Mining**
 
@@ -32,7 +33,6 @@ You’ll need to enter the following information in your mining software:
   ]
 }
 ```
-
 
 Make sure you have enetered your wallet address for the "User" bar.
 
