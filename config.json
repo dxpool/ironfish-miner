@@ -6,8 +6,8 @@
       "minername": ["gpu"],
       "pool": {
         "host": "ironfish.ss.dxpool.com",
-        "port": 8899,
-        "user": "0000",
+        "port": 9046,
+        "user": "username.workername or address.workername",
         "pass": "x"
       }
     }
